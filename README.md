@@ -6,7 +6,7 @@
 
 **`Windows 10/11`** • **`Bit-Perfect Audio`** • **`Hi-Res 24-Bit / 96kHz+`** • **`mpv Engine`**
 
-### ➡️ [**Download Marea Player (v1.0.0)**](https://github.com)
+### ➡️ [**Download Marea Player (v1.0.0)**](../../releases/tag/v1.0.0)
 
 <br>
 
@@ -65,7 +65,7 @@ Most audio players force you to choose between **clinical sound quality with dat
 
 ## 🚀 Quick Start
 
-1. Go to the **[Releases Page](https://github.com)**.
+1. Go to the **[Releases Page](../../releases/tag/v1.0.0)**.
 2. Download **`Marea.zip`** under the **Assets** section.
 3. Extract the folder and launch **`Marea.exe`**.
 4. Click **Scan Folder** (*Escanear carpeta*) to load your local music library.
@@ -75,3 +75,4 @@ Most audio players force you to choose between **clinical sound quality with dat
 <div align="center">
   <sub>Crafted with passion for pure audio by <b>Sebsx669</b> • Closed-source freeware for personal use.</sub>
 </div>
+
