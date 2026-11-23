@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="Home.jpg" alt="Marea Player Home Interface" width="95%">
+<img src="Assets/Home.jpg" alt="Marea Player Home Interface" width="95%">
 
 </div>
 
@@ -47,8 +47,8 @@ Most audio players force you to choose between **clinical sound quality with dat
     <td align="center"><b>Immersive Now Playing & Synced Lyrics</b></td>
   </tr>
   <tr>
-    <td><img src="Album.jpg" alt="Album View" width="100%"></td>
-    <td><img src="Player.jpg" alt="Lyrics View" width="100%"></td>
+    <td><img src="Assets/Album.jpg" alt="Album View" width="100%"></td>
+    <td><img src="Assets/Player.jpg" alt="Lyrics View" width="100%"></td>
   </tr>
 </table>
 
