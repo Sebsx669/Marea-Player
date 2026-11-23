@@ -1,21 +1,12 @@
+<div align="center">
 
 # 🌊 Marea Player
 
 ### **A lightweight, bit-perfect audio player for Windows powered by mpv.**
 
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+**`Windows 10/11`** • **`Bit-Perfect Audio`** • **`Hi-Res 24-Bit / 96kHz+`** • **`mpv Engine`**
 
-<p>
-  <a href="https://github.com">
-    <img src="https://shields.io⬇_Download_Latest_Release-v1.0.0-success?style=for-the-badge" />
-  </a>
-</p>
+### ➡️ [**Download Latest Release (v1.0.0)**](https://github.com)
 
 <br>
 
