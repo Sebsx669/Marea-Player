@@ -6,7 +6,7 @@
 
 **`Windows 10/11`** • **`Bit-Perfect Audio`** • **`Hi-Res 24-Bit / 96kHz+`** • **`mpv Engine`**
 
-### ➡️ [**Download Latest Release (v1.0.0)**](https://github.com)
+### ➡️ [**Download Marea Player (v1.0.0)**](https://github.com)
 
 <br>
 
@@ -65,9 +65,9 @@ Most audio players force you to choose between **clinical sound quality with dat
 
 ## 🚀 Quick Start
 
-1. Head over to the **[Releases](https://github.com)** section on the right.
-2. Download the latest **`Marea-Player`** package (`.zip` or `.exe`).
-3. Extract the folder (if using the portable version) and launch **`Marea.exe`**.
+1. Go to the **[Releases Page](https://github.com)**.
+2. Download **`Marea.zip`** under the **Assets** section.
+3. Extract the folder and launch **`Marea.exe`**.
 4. Click **Scan Folder** (*Escanear carpeta*) to load your local music library.
 
 ---
